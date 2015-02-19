@@ -1,5 +1,7 @@
-getwd()
-setwd("C:/Users/Tdashi/OneDrive/Coursera/Getting and Cleaning Data")
+#This is the code of cleaning the data were analyzed the human activity with smartphone.
+#Stores the linked data to your working directory, unzip, and then run this code.
+#link: https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
+#This code can make a table of average value for each activity and subject.
 
 #Read test data
 subject_test <- read.table("./UCI HAR Dataset/test/subject_test.txt", quote = "\"")
