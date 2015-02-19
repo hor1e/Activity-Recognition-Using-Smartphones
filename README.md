@@ -9,8 +9,7 @@ link: https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%2
 This code can make a table named "output.txt" that is average value for each activity and subject.
 
 
-The dataset includes the following files:
-=========================================
+##The dataset includes the following files:
 
 - README.md
 
