@@ -9,8 +9,12 @@ link: https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%2
 This code can make a table named "output.txt" that is average value for each activity and subject.
 
 
+<<<<<<< HEAD
 ##A full description is available at the site where the data was obtained: 
 http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones 
+=======
+##The dataset includes the following files:
+>>>>>>> origin/master
 
 
 
@@ -20,5 +24,8 @@ http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartpho
 - codebook.md : descrides the variables, the data
 
 - run_analysis.R : R code to perform the analysis
+<<<<<<< HEAD
 
 - output.txt : output data
+=======
+>>>>>>> origin/master
